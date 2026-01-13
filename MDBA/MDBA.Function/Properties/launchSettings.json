@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MDBA.Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7017",
+      "launchBrowser": false
+    }
+  }
+}

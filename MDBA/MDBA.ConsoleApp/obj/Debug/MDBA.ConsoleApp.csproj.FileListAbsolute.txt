@@ -1,0 +1,7 @@
+D:\mdba-projects\SecurityWA\MDBA\MDBA.ConsoleApp\bin\Debug\MDBA.ConsoleApp.exe.config
+D:\mdba-projects\SecurityWA\MDBA\MDBA.ConsoleApp\bin\Debug\MDBA.ConsoleApp.exe
+D:\mdba-projects\SecurityWA\MDBA\MDBA.ConsoleApp\bin\Debug\MDBA.ConsoleApp.pdb
+D:\mdba-projects\SecurityWA\MDBA\MDBA.ConsoleApp\obj\Debug\MDBA.ConsoleApp.csproj.AssemblyReference.cache
+D:\mdba-projects\SecurityWA\MDBA\MDBA.ConsoleApp\obj\Debug\MDBA.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\mdba-projects\SecurityWA\MDBA\MDBA.ConsoleApp\obj\Debug\MDBA.ConsoleApp.exe
+D:\mdba-projects\SecurityWA\MDBA\MDBA.ConsoleApp\obj\Debug\MDBA.ConsoleApp.pdb
